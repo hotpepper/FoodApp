@@ -1,0 +1,4 @@
+make food app for kristen
+
+enter what you made and date 
+after data has grown you can ask it what you havent eaten in some number of days
